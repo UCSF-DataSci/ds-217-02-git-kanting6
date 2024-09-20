@@ -105,3 +105,35 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 * [GitHub's Learning Lab](https://lab.github.com/)
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
+
+# Practical Exercise #1
+
+## Get Everything Installed (or Use the Cloud) and Play Around a Bit
+
+1. **Create an account on GitHub**
+2. **Apply for GitHub Education**
+3. **Join the course and see next week’s assignment**
+4. **Create a Python script that prints "Hello, Data Science!"**
+   - Save it as `hello_ds.py`
+   - Run it from the command line
+5. **Use the command line to create a `scripts` folder and move your file into it**
+6. **Write a Python script to solve the following:**
+   - If we list all the natural numbers below 10 that are multiples of 3 or 5, we get (3, 5, 6, 9). The sum of these multiples is 23. Find the sum of all the multiples of 3 or 5 below 1000.
+
+## Email Me:
+- **GitHub username**
+- **Answer to the problem above + script you wrote to solve it**
+- **Brief introduction**
+  - Who are you?
+  - Why are you here?
+  - Anything you’re specifically hoping to get out of the course?
+  
+## Link to Python Book:
+https://www.python.org
+
+## Installing Python Package Pandas
+![Alt text](screenshot.png)
+
+## Meme for Fun
+
+![Alt text](meme.jpg)
